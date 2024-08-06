@@ -4,10 +4,10 @@
 
 - **Project objective:** 
 
-    **1.** Create a https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/c89490c776a75cf2689a7b2b6f2a7423d28286a2/customer%20performance%20report.pdf
+    **1.** Create a _[https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/c89490c776a75cf2689a7b2b6f2a7423d28286a2/customer%20performance%20report.pdf]_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
-
+    **2.** Conduct a comprehensive comparison between _[https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/5ad6178a93de29133b4e9765c2d05d21c5a66d36/Market%20Performance%20vs%20Target%20Report.pdf]_
+  
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).

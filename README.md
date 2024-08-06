@@ -12,7 +12,7 @@
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
@@ -21,7 +21,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] (https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/53d763517b3a961274e864467595d2ee75c369c1/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months] (https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/1f6d2534bbfce9a5bc0f911cb12aff0b5c00e5c5/P%26L%20Statement%20by%20Months.pdf)_
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/d6b4d07a7f9dfeb25c5f0d0abc52ea7f5d932125/P%26L%20Statement%20by%20Market.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -42,4 +42,4 @@
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.

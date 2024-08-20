@@ -22,6 +22,8 @@
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/53d763517b3a961274e864467595d2ee75c369c1/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/1f6d2534bbfce9a5bc0f911cb12aff0b5c00e5c5/P%26L%20Statement%20by%20Months.pdf)_
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/PriyaMinj/Excel-Sales-Analytics/blob/d6b4d07a7f9dfeb25c5f0d0abc52ea7f5d932125/P%26L%20Statement%20by%20Market.pdf)_
+  
+  **3.** Create Gross Margin% by _[Quarters](https://github.com/PriyaMinj/Excel-Sales-Finance-Analytics/blob/864c8652c941f8e445a37dc4ad869bc85f7fdece/Finance%20reports%20pdf/GM%25%20by%20Quarters.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
